@@ -4,3 +4,4 @@ fp-info-cache
 *-backups/*
 exports/*
 .idea
+/export/
