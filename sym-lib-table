@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "61729-1011BLF")(type "KiCad")(uri "${KIPRJMOD}/lib/61729-1011BLF/61729-1011BLF.kicad_sym")(options "")(descr ""))
   (lib (name "MF-SMDF050-2")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_MF-SMDF050-2/KiCADv6/2025-09-30_09-07-59.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-A1HSW6")(type "KiCad")(uri "${KIPRJMOD}/lib/USB-A1HSW6/USB-A1HSW6.kicad_sym")(options "")(descr ""))
 )

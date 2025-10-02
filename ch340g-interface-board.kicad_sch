@@ -11,302 +11,6 @@
 		(company "Primzel Technologies")
 	)
 	(lib_symbols
-		(symbol "61729-1011BLF:61729-1011BLF"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -5.08 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "61729-1011BLF"
-				(at -5.08 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "61729-1011BLF:AMPHENOL_61729-1011BLF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Amphenol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "11.5 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/61729-1011BLF/Amphenol/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "AB"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/61729-1011BLF/Amphenol/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "61729-1011BLF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Conn Data USB TypeB Socket 4Cnts RightAngle ThruHole Black | Amphenol FCI (Amphenol CS) 61729-1011BLF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Amphenol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "61729-1011BLF_0_0"
-				(rectangle
-					(start -5.08 -10.16)
-					(end 5.08 7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at -10.16 5.08 0)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -10.16 2.54 0)
-					(length 5.08)
-					(name "D-"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -10.16 0 0)
-					(length 5.08)
-					(name "D+"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 -7.62 0)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "S1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 -7.62 0)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "S2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
 				(offset 1.016)
@@ -1523,45 +1227,46 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MF-SMDF050-2:MF-SMDF050-2"
+		(symbol "USB-A1HSW6:USB-A1HSW6"
 			(pin_names
-				(offset 0.254)
+				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "F"
-				(at 5.08 3.175 0)
+			(property "Reference" "J"
+				(at -5.0818 8.898 0)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" "MF-SMDF050-2"
-				(at 5.08 -3.175 0)
+			(property "Value" "USB-A1HSW6"
+				(at -5.0836 -7.6344 0)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "FUSE_SMDF050-2"
+			(property "Footprint" "USB-A1HSW6:OST_USB-A1HSW6"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "MF-SMDF050-2"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
 					(hide yes)
 				)
@@ -1575,89 +1280,206 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "MF" "On Shore"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-				)
-			)
-			(property "ki_keywords" "MF-SMDF050-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "FUSE_SMDF050-2"
+			(property "MAXIMUM_PACKAGE_HEIGHT" "7.1 mm"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
-			(symbol "MF-SMDF050-2_0_1"
-				(arc
-					(start 2.54 0)
-					(mid 3.81 1.2645)
-					(end 5.08 0)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/USB-A1HSW6/ON/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/USB-A1HSW6/ON/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "USB-A1HSW6"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "USB-A (USB TYPE-A) - Receptacle Connector 4 Position Through Hole, Right Angle"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "On Shore"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "USB-A1HSW6_0_0"
+				(rectangle
+					(start -5.08 -5.08)
+					(end 5.08 7.62)
 					(stroke
 						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-				(arc
-					(start 7.62 0)
-					(mid 6.35 -1.2645)
-					(end 5.08 0)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 2.54)
-					(name "1"
+				(pin power_in line
+					(at -10.16 5.08 0)
+					(length 5.08)
+					(name "VBUS"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
-				(pin unspecified line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "2"
+				(pin bidirectional line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "D-"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "D+"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -1994,7 +1816,7 @@
 		)
 	)
 	(junction
-		(at 48.006 29.464)
+		(at 47.752 29.464)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "489e78d7-3e55-4da8-8fc2-05d93eb6bc78")
@@ -2018,7 +1840,7 @@
 		(uuid "b03a5037-f556-4909-8edb-c70c5488cfba")
 	)
 	(junction
-		(at 48.006 46.228)
+		(at 47.752 46.228)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bca64b63-3e08-4f1a-b3e4-8e27cc9ed202")
@@ -2036,24 +1858,14 @@
 		(uuid "d54fc92b-f810-4cca-b7ad-6d9da3e109e2")
 	)
 	(junction
-		(at 48.006 64.008)
+		(at 47.752 63.754)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e13a9e98-07de-4128-be10-b0fc402e476e")
+		(uuid "ff529703-2cae-4c02-a49f-4bee4bcf6ad2")
 	)
 	(no_connect
 		(at 98.806 50.8)
 		(uuid "a48002a8-9a08-4f21-871f-47e82b70721c")
-	)
-	(wire
-		(pts
-			(xy 48.006 29.464) (xy 48.006 32.766)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12419144-26f1-4ef1-9252-026570f0d755")
 	)
 	(wire
 		(pts
@@ -2097,6 +1909,16 @@
 	)
 	(wire
 		(pts
+			(xy 47.752 27.178) (xy 48.006 27.178)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "336d2161-b58c-44a3-9d35-f9b0b5133e6c")
+	)
+	(wire
+		(pts
 			(xy 119.126 58.42) (xy 131.826 58.42)
 		)
 		(stroke
@@ -2114,16 +1936,6 @@
 			(type default)
 		)
 		(uuid "34b39e95-8044-4928-86a7-f67bf7db2307")
-	)
-	(wire
-		(pts
-			(xy 55.88 63.754) (xy 48.26 63.754)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "408197ed-03ce-4a43-8a37-bbe4b455d901")
 	)
 	(wire
 		(pts
@@ -2157,13 +1969,13 @@
 	)
 	(wire
 		(pts
-			(xy 48.006 58.928) (xy 48.006 64.008)
+			(xy 44.45 46.228) (xy 47.752 46.228)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "64abd597-bf62-4f17-968f-c66196854bde")
+		(uuid "61003061-bcc5-48a0-ae92-edf43e544c3b")
 	)
 	(wire
 		(pts
@@ -2187,16 +1999,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 63.754) (xy 48.006 64.008)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73be274e-3268-4cd3-9295-c08ba8f0803b")
-	)
-	(wire
-		(pts
 			(xy 89.154 70.104) (xy 98.552 70.104)
 		)
 		(stroke
@@ -2207,13 +2009,33 @@
 	)
 	(wire
 		(pts
-			(xy 48.006 27.178) (xy 48.006 29.464)
+			(xy 47.752 27.178) (xy 47.752 29.464)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "814c0c02-d926-4201-b3d2-204d41f76f59")
+	)
+	(wire
+		(pts
+			(xy 47.752 63.754) (xy 47.752 65.532)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86ee20c6-0b95-4cca-9a30-efba15a68850")
+	)
+	(wire
+		(pts
+			(xy 47.752 63.754) (xy 55.88 63.754)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "935d1206-978d-4a5c-9fcb-1c2774d83720")
 	)
 	(wire
 		(pts
@@ -2234,16 +2056,6 @@
 			(type default)
 		)
 		(uuid "967f178b-546e-4586-99c6-8f4203c5e487")
-	)
-	(wire
-		(pts
-			(xy 48.006 42.926) (xy 48.006 46.228)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a4462ba-234f-4bd9-8eda-c30ea8bf8c18")
 	)
 	(wire
 		(pts
@@ -2297,7 +2109,17 @@
 	)
 	(wire
 		(pts
-			(xy 48.006 46.228) (xy 48.006 51.308)
+			(xy 47.752 58.928) (xy 47.752 63.754)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c47aa1e4-5b2f-42f5-aa42-dbeeac2a0bb9")
+	)
+	(wire
+		(pts
+			(xy 47.752 46.228) (xy 47.752 51.308)
 		)
 		(stroke
 			(width 0)
@@ -2324,16 +2146,6 @@
 			(type default)
 		)
 		(uuid "cb051665-709d-435d-b28c-fdcab9721048")
-	)
-	(wire
-		(pts
-			(xy 44.704 46.228) (xy 48.006 46.228)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cefdfc51-951e-4d9b-adb5-7a7a458cffa0")
 	)
 	(wire
 		(pts
@@ -2367,7 +2179,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.006 29.464) (xy 57.15 29.464)
+			(xy 47.752 29.464) (xy 57.15 29.464)
 		)
 		(stroke
 			(width 0)
@@ -2407,23 +2219,13 @@
 	)
 	(wire
 		(pts
-			(xy 48.006 64.008) (xy 48.006 67.564)
+			(xy 47.752 29.464) (xy 47.752 46.228)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ffc99ff3-8ad3-403c-acd2-18a26db8658f")
-	)
-	(label "D+"
-		(at 48.006 56.388 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "03c74de1-2f92-46ee-92fc-142fb7fb027f")
+		(uuid "f8b68f62-0101-46c9-bfde-a74b74712dd0")
 	)
 	(label "D+"
 		(at 98.806 55.88 180)
@@ -2445,15 +2247,25 @@
 		)
 		(uuid "1e42fb24-a322-457f-adbc-7616406cfdac")
 	)
-	(label "D-"
-		(at 48.006 53.848 0)
+	(label "D+"
+		(at 47.752 56.388 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "597bd887-e94f-4f76-b7bc-d6def5d4b23a")
+		(uuid "2b234474-9115-4f37-a2b1-c822fb4ff91a")
+	)
+	(label "D-"
+		(at 47.752 53.848 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5e47a526-1dd2-46a6-bcd1-ba257f7ede7a")
 	)
 	(symbol
 		(lib_id "power:+5V")
@@ -3150,6 +2962,201 @@
 		)
 	)
 	(symbol
+		(lib_id "USB-A1HSW6:USB-A1HSW6")
+		(at 37.592 56.388 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7c029c4f-3e43-4993-898f-3236243b07e5")
+		(property "Reference" "J1"
+			(at 37.592 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB-A1HSW6"
+			(at 37.592 63.754 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "USB-A1HSW6:OST_USB-A1HSW6"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "On Shore"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.1 mm"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USB-A1HSW6/ON/view-part/?ref=eda"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USB-A1HSW6/ON/view-part/?ref=snap"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USB-A1HSW6"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "USB-A (USB TYPE-A) - Receptacle Connector 4 Position Through Hole, Right Angle"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "On Shore"
+			(at 37.592 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a0410143-841c-42fa-80ac-ade80bd23b44")
+		)
+		(pin "1"
+			(uuid "87160be8-5e6e-450b-a8ac-05a668b2734d")
+		)
+		(pin "4"
+			(uuid "8d1ce1b7-a6d7-42f6-a824-6cef5c2f3bb8")
+		)
+		(pin "3"
+			(uuid "ff39ce70-dfb0-4b80-81a4-a7abaf39ec43")
+		)
+		(instances
+			(project ""
+				(path "/1242ce71-0b74-4298-a9a8-725f79ae9887"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 73.66 75.692 90)
 		(mirror x)
@@ -3228,7 +3235,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 48.006 67.564 0)
+		(at 47.752 65.532 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3237,7 +3244,7 @@
 		(fields_autoplaced yes)
 		(uuid "917e259d-55fd-4f66-b12d-517893214e8e")
 		(property "Reference" "#PWR01"
-			(at 48.006 73.914 0)
+			(at 47.752 71.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3246,7 +3253,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 48.006 72.644 0)
+			(at 47.752 70.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3254,7 +3261,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.006 67.564 0)
+			(at 47.752 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3263,7 +3270,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.006 67.564 0)
+			(at 47.752 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3272,7 +3279,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.006 67.564 0)
+			(at 47.752 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3287,207 +3294,6 @@
 			(project ""
 				(path "/1242ce71-0b74-4298-a9a8-725f79ae9887"
 					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "61729-1011BLF:61729-1011BLF")
-		(at 37.846 56.388 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b4f6bef8-cc9f-4a9d-b18c-a92ec27becea")
-		(property "Reference" "J1"
-			(at 37.846 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "61729-1011BLF"
-			(at 37.846 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "61729-1011BLF:AMPHENOL_61729-1011BLF"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Amphenol"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "11.5 mm"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/61729-1011BLF/Amphenol/view-part/?ref=eda"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "AB"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/61729-1011BLF/Amphenol/view-part/?ref=snap"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "61729-1011BLF"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Conn Data USB TypeB Socket 4Cnts RightAngle ThruHole Black | Amphenol FCI (Amphenol CS) 61729-1011BLF"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Amphenol"
-			(at 37.846 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "15f6503a-959e-4b67-ad84-3ce3ed62a037")
-		)
-		(pin "2"
-			(uuid "46f72a5b-9f31-4ee2-912d-a87590b55281")
-		)
-		(pin "3"
-			(uuid "c2ec8fef-4b82-4b5d-927a-24e42b6d465e")
-		)
-		(pin "4"
-			(uuid "6d72b53e-d704-42ce-8f18-3a475740eb45")
-		)
-		(pin "S1"
-			(uuid "8043ce22-6d57-473f-bd91-98d639713015")
-		)
-		(pin "S2"
-			(uuid "2dfe7e59-ca35-415c-9548-c8c84e02870b")
-		)
-		(instances
-			(project ""
-				(path "/1242ce71-0b74-4298-a9a8-725f79ae9887"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -3639,98 +3445,16 @@
 		)
 	)
 	(symbol
-		(lib_id "MF-SMDF050-2:MF-SMDF050-2")
-		(at 48.006 42.926 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c8a5ff87-9acf-48f9-b72b-408d2e2c98e6")
-		(property "Reference" "F1"
-			(at 50.546 36.5759 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "MF-SMDF050-2"
-			(at 50.546 39.1159 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "FUSE_SMDF050-2:FUSE_SMDF050-2"
-			(at 48.006 42.926 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "MF-SMDF050-2"
-			(at 48.006 42.926 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.006 42.926 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Purpose" ""
-			(at 48.006 42.926 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cd60ddee-f5c8-4ac1-a32a-122cacc97d2a")
-		)
-		(pin "2"
-			(uuid "fbf6cf08-abd3-4a58-aa5e-d2fd710d7df6")
-		)
-		(instances
-			(project ""
-				(path "/1242ce71-0b74-4298-a9a8-725f79ae9887"
-					(reference "F1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 44.704 46.228 90)
+		(at 44.45 46.228 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "deae3488-0898-460c-a680-5c11e8020fb8")
 		(property "Reference" "#FLG01"
-			(at 42.799 46.228 0)
+			(at 42.545 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3739,7 +3463,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 40.64 46.2279 90)
+			(at 40.386 46.2279 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3748,7 +3472,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.704 46.228 0)
+			(at 44.45 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3757,7 +3481,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.704 46.228 0)
+			(at 44.45 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3766,7 +3490,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 44.704 46.228 0)
+			(at 44.45 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
